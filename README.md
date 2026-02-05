@@ -2,7 +2,7 @@
 
 ## Overview
 This Excel data analysis explores trends in winter beverages across multiple years, focusing on customer ratings, calories, pricing, and regional consumption. The goal is to provide data-driven insights and actionable recommendations.
-
+![Beverages](https://github.com/Readwayne/Wang_Xiyue/blob/main/Introduction.webp)
 ## Dataset
 - Time period: Winter 2023–2025  
 - Products: Drinks (88%) and Soups (12%)  
