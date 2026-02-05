@@ -16,7 +16,7 @@ This Excel data analysis explores trends in winter beverages across multiple yea
   - Calories Trend by Year
   - Product Type Distribution
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/Readwayne/Wang_Xiyue/blob/main/image_2026-02-05_102428992.png)
 
 ## Key Insights
 - Drinks dominate the winter menu (88% of items) and contribute most calories.  
