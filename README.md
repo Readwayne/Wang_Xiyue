@@ -1,42 +1,75 @@
-# Winter Beverage Analysis (2023–2025)
+# 🥤 Beverages Sales Data Analysis
 
-## Overview
-This Excel data analysis explores trends in winter beverages across multiple years, focusing on customer ratings, calories, pricing, and regional consumption. The goal is to provide data-driven insights and actionable recommendations.
-![Beverages](https://github.com/Readwayne/Wang_Xiyue/blob/main/Introduction.webp)
-## Dataset
-- Time period: Winter 2023–2025  
-- Products: Drinks (88%) and Soups (12%)  
-- Regions: Canada, France, China, Germany, India, Italy, Japan, Switzerland, UK, USA  
-- Metrics analyzed: Rating, Price, Calories, Quantity, Region
+## 📊 Project Overview
+This project analyzes a beverage sales dataset to understand revenue trends, product performance, and profitability.
 
-## Dashboard & Analysis
-- Pivot tables were used to summarize sales, ratings, calories, and product distribution.  
-- Key visualizations:
-  - Average Rating & Price by Product
-  - Calories Trend by Year
-  - Product Type Distribution
+The dataset was cleaned and analyzed using Microsoft Excel. Pivot tables and dashboards were created to generate insights and support business decision-making.
 
-![Dashboard](https://github.com/Readwayne/Wang_Xiyue/blob/main/image_2026-02-05_102428992.png)
+This project demonstrates my workflow:
+Data Cleaning → Analysis → Dashboard → Insights → Reporting
 
-## Key Insights
-- Drinks dominate the winter menu (88% of items) and contribute most calories.  
-- Latte has the highest calorie content; hot cider has the highest rating.  
-- Japan has the highest drink consumption; Canada the lowest.  
-- Hot chocolate is the most expensive item but not the highest rated.
+---
 
-## Inferences
-- High-calorie drinks remain popular, indicating a comfort-driven consumption trend.  
-- Customer satisfaction is influenced more by taste than price.  
-- Regional differences suggest opportunities for market-specific strategies.
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Data Cleaning
+- Dashboard Creation
+- Data Visualization
 
-## Recommendations
-1. **Promote high-rated drinks** like hot cider to boost customer satisfaction and repeat purchases.  
-2. **Introduce lower-calorie options** for high-calorie beverages to cater to health-conscious consumers.  
-3. **Review premium pricing** for drinks like hot chocolate to align value perception with price.  
-4. **Strengthen marketing in low-consumption regions** (e.g., Canada) using strategies from high-demand regions like Japan.  
-5. **Expand or test product variety** (e.g., soups) to balance the winter menu.
+---
 
-## Conclusion
-The analysis highlights the importance of data-driven decisions for product mix, pricing, and regional marketing. By implementing these recommendations, the winter beverage portfolio can optimize sales, satisfy customer preferences, and maintain competitiveness across regions.
+## 📁 Dataset Description
+The dataset includes:
+- Product name
+- Category
+- Sales revenue
+- Quantity sold
+- Profit
+- Sales channel
+- Date
 
+---
 
+## 📈 Dashboard Preview
+![Dashboard](dashboard.png)
+
+---
+
+## 🔎 Key Insights
+- A few top beverage categories generate most revenue
+- High-volume drinks drive total sales
+- Premium drinks generate higher profit margins
+- Sales show mild seasonal trends
+- Certain channels dominate revenue
+
+---
+
+## 💡 Business Recommendations
+- Focus marketing on top-selling drinks
+- Promote high-margin products
+- Optimize pricing for low-profit items
+- Increase inventory for best sellers
+
+---
+
+## 📂 Files Included
+- Raw dataset
+- Cleaned dataset
+- Excel dashboard
+- Screenshots
+
+---
+
+## 🧑‍💻 Author
+Adeshina Ridwan  
+Data Analyst | Excel | Power BI  
+
+📧 Readwayne17@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/adeshina-ridwan-mnimeche-16b71521a  
+🔗 GitHub: https://github.com/Readwayne  
+
+---
+
+## 🚀 Portfolio Purpose
+This project is part of my data analytics portfolio showcasing my ability to clean, analyze, and visualize sales data while generating actionable insights.
