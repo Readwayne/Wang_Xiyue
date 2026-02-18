@@ -1,6 +1,7 @@
 # 🥤 Beverages Sales Data Analysis
 
 ## 📊 Project Overview
+![](Introduction.webp)
 This project analyzes a beverage sales dataset to understand revenue trends, product performance, and profitability.
 
 The dataset was cleaned and analyzed using Microsoft Excel. Pivot tables and dashboards were created to generate insights and support business decision-making.
@@ -32,7 +33,7 @@ The dataset includes:
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](image_2026-02-05_102428992.png)
 
 ---
 
